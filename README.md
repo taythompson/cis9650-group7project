@@ -1,5 +1,5 @@
 # Google Play Store
-<center> An In-Depth Analysis on Google Play Store App Installations </center>
+## An In-Depth Analysis on Google Play Store App Installations </center>
 <img src="https://i.pinimg.com/originals/1a/49/22/1a49226d155846acb790eeb919f63c8e.jpg" width="100" height="100" />
 
 # About The Project
@@ -33,11 +33,11 @@ The Google Play Store Apps dataset provided by Kaggle provides application data 
 # Results 
 Our analysis yielded results that can help developers make smarter app development decisions. Based on the results, while the game category has the most installs, it might not be the most profitable app to develop because the average price of games tend to be on the lower side. 
 
-![installedapps_categorydistribution - Copy](https://user-images.githubusercontent.com/48069159/118333059-0afa2280-b4d9-11eb-9b6e-d9162d26bc52.png)
+<img src="https://user-images.githubusercontent.com/48069159/118333059-0afa2280-b4d9-11eb-9b6e-d9162d26bc52.png" width="500" height="550" />
 
 If a developer is looking to develop a profitable application, they might want to consider the financial category as this category has the highest average price and does not fall to low on the list of most app installations.
 
-<img src="https://user-images.githubusercontent.com/48069159/118333067-0e8da980-b4d9-11eb-8fa1-27fbc3b3abcf.png" width="200" height="250"/>
+<img src="https://user-images.githubusercontent.com/48069159/118333067-0e8da980-b4d9-11eb-8fa1-27fbc3b3abcf.png" width="500" height="550"/>
 
 The price of an app has a strong influence on an applications rating. Apps that are lower in price tend to have a higher rating with an approcimate average of 4.5. Higher priced apps tend to fall below this average. 
 

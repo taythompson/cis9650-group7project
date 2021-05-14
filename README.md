@@ -1,6 +1,6 @@
 # Google Play Store
 ## An In-Depth Analysis on Google Play Store App Installations
-![GooglePlayStore Logo](https://i.pinimg.com/originals/1a/49/22/1a49226d155846acb790eeb919f63c8e.jpg =250x)
+<img src="https://i.pinimg.com/originals/1a/49/22/1a49226d155846acb790eeb919f63c8e.jpg" width="100" height="100" />
 
 # About The Project
 This project aims to use statistical analysis tools to determine the factors that contribute to a profitable Android application. The raw data will be cleaned and then analyzied using the Pandas library. Graphical representations of our findings are also included in this project. The goal is to provide useful insights for developers on how to stand-out in the ever-evolving app development market. 

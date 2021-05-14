@@ -1,5 +1,5 @@
 # Google Play Store
-## An In-Depth Analysis on Google Play Store App Installations
+<center> An In-Depth Analysis on Google Play Store App Installations </center>
 <img src="https://i.pinimg.com/originals/1a/49/22/1a49226d155846acb790eeb919f63c8e.jpg" width="100" height="100" />
 
 # About The Project
@@ -37,9 +37,11 @@ Our analysis yielded results that can help developers make smarter app developme
 
 If a developer is looking to develop a profitable application, they might want to consider the financial category as this category has the highest average price and does not fall to low on the list of most app installations.
 
-![category_vs_averageprice_graph](https://user-images.githubusercontent.com/48069159/118333067-0e8da980-b4d9-11eb-8fa1-27fbc3b3abcf.png)
+<img src="https://user-images.githubusercontent.com/48069159/118333067-0e8da980-b4d9-11eb-8fa1-27fbc3b3abcf.png" width="200" height="250"/>
 
 The price of an app has a strong influence on an applications rating. Apps that are lower in price tend to have a higher rating with an approcimate average of 4.5. Higher priced apps tend to fall below this average. 
+
+![price_vs_rating_graph](https://user-images.githubusercontent.com/48069159/118333592-fc603b00-b4d9-11eb-956d-3bec1b3db16c.png)
 
 In conclusion, there is a happy medium developers need to find between price and category in order to have an app that is not only profitable but also has high user ratings. 
 

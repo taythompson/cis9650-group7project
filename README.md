@@ -25,6 +25,9 @@ The following open source packages are used in this project:
 * Matplotlib
 * Seaborn 
 
+# User Guide
+The dataset used for this project was upload to Amazon S3 for ease of use. In order to use our code, users simply just need to clone this repo and run the source code in a Python friendly IDE.
+
 # Dataset
 The Google Play Store Apps dataset provided by Kaggle provides application data on various categories such as categories and ratings from the apps found on the Google Play Store. This dataset contains data on approximately 10,000 applications. The dataset can be found here: [Kaggle](https://www.kaggle.com/lava18/google-play-store-apps). A sample of the dataset is provided below: 
 ![dataset_image](https://user-images.githubusercontent.com/48069159/118328797-2dd60800-b4d4-11eb-9fa5-66ce39d8f850.png)
@@ -44,5 +47,7 @@ The price of an app has a strong influence on an applications rating. Apps that 
 ![price_vs_rating_graph](https://user-images.githubusercontent.com/48069159/118333592-fc603b00-b4d9-11eb-956d-3bec1b3db16c.png)
 
 In conclusion, there is a happy medium developers need to find between price and category in order to have an app that is not only profitable but also has high user ratings. 
+
+For additional analysis, please see the presentation slide deck also attached in this repo. 
 
 
